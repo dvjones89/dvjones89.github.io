@@ -3,7 +3,7 @@ layout: post
 title:  "My Git Workflow"
 date:   2019-11-06 18:00
 permalink: 'blog/my-git-workflow'
-excerpt: "Git, the version control software that often lives up to its name. After 7 years of study, I'm starting to understand how things hand together, so I've written them down before I forget."
+excerpt: "Git, the version control software that often lives up to its name. After years of study, I've found a flow that works for me, so I'm writing things down before I forget."
 featured-image: "git.jpg"
 ---
 
