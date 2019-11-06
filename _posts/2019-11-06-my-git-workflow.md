@@ -3,7 +3,7 @@ layout: post
 title:  "My Git Workflow"
 date:   2019-11-06 18:00
 permalink: 'blog/my-git-workflow'
-excerpt: "Git, the version control software that often lives up to its name. After years of study, I've found a flow that works for me, so I'm writing things down before I forget."
+excerpt: "Git, the version control software that often lives up to its name. After years of study, I've found a workflow that works for me, so I'm writing things down before I forget."
 featured-image: "git.jpg"
 ---
 
@@ -39,7 +39,7 @@ First, we need to enter git's `rebase` tool, a powerful feature that allows us t
 ```
 git rebase -i d9c372e6ad9^
 ```
-Running the above command will open your editor to show all the commits after the SHA you provided as an argument. Since we provided the SHA for the commit directly before our first feature commit, we're shown a list of all the work we've done in the `add-model-validations` branch:
+Running the above command will open your editor to show all the commits in our `add-model-validations` feature branch:
 
 ```
 pick d9c372e6ad9 Add model validations and ensure any errors are rendered by the view
@@ -59,7 +59,7 @@ pick b2e8ffac57e Fix failing tests
 pick ad29l1r4vc0 Add new tests
 ```
 
-Next, let's focus on the final two commits, both of which focus on updating our tests. You'll note that our commit messages aren't particularly meaningful; we've documented that some old tests were fixed and some new tests were added, but we haven't explained the *what* or *why* behind our testing approach. The good news is that we can update the final two commits by replacing the verb `pick` with the verb `reword`, after which our editor will be opened allowing us to supply more meaningful commit messages.
+Next, let's turn our attention to our final two commits, both of which focus on updating our tests. You'll note that our commit messages aren't particularly meaningful; we've documented that some old tests were fixed and some new tests were added, but we haven't explained the *what* or *why* behind our testing approach. The good news is that we can rewrite the final two commits by replacing the verb `pick` with the verb `reword`, after which our editor will be opened allowing us to supply more meaningful commit messages.
 
 ```
 pick d9c372e6ad9 Add model validations and ensure any errors are rendered by the view
