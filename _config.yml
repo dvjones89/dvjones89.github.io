@@ -15,7 +15,7 @@ harmony:
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
   meta_description: > #
-   Hi, I'm Dave, a 20-something tech enthusiast based in Edinburgh, Scotland.
+   Hi, I'm Dave, a Software Engineer and Web Developer based in beautiful North Wales, UK.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Dave Jones
