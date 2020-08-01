@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "COVID-19 Vlog #3 - Dockerising Rails, Postgres and NGINX."
+title:  "Tech Vlog #3 - Dockerising Rails, Postgres and NGINX."
 date:   2020-5-5 12:00
-permalink: 'blog/covid-19-vlog-3'
+permalink: 'blog/tech-vlog-3'
 excerpt: "In this video we'll learn how to \"Dockerise\" a Ruby on Rails application, spin up a Postgres database and wire up an NGINX web server, all using the magic of Docker and Docker Compose."
-featured-image: "covid-19-vlog-3.jpg"
+featured-image: "tech-vlog-3.jpg"
 ---
 
 <div class="video-container">
@@ -15,7 +15,7 @@ Whilst waiting on the delivery of some Arduino components, I decided to take a c
 
 [My DigitalOcean referral link (free $100 credit for you)](https://m.do.co/c/0a355ee4921b)
 
-[🎬Playlist of all VLOG entries](https://www.youtube.com/playlist?list=PLZKJZNiPX65uKeoHLLvi2rh25T9PvtAQc)
+[🎬Playlist of all Tech VLOG entries](https://www.youtube.com/playlist?list=PLZKJZNiPX65uKeoHLLvi2rh25T9PvtAQc)
 
 <b>Dockerfile</b>
 ```
@@ -50,7 +50,7 @@ CMD ["bundle", "exec", "rails", "server", "-b", "0.0.0.0"]
 ```
 
 <b>docker-compose.prod.yml</b>
-```
+```yml
 version: '3'
 
 volumes:
