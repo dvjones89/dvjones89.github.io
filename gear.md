@@ -15,8 +15,7 @@ permalink: /gear/
   <ul>
     <li>Apple Macbook Pro 2019, 13 inch, Core i5, 8GB RAM</li>
     <li>Apple iPad Air (3rd Generation)</li>
-    <li>Primary Display: Dell U414H UltraSharp Monitor</li>
-    <li>Secondary Display: Acer G6 (G246HL)</li>
+    <li>Displays: 2 x BenQ GL2450 24" HD Monitor</li>
     <li>Keychron K6 Wireless Mechanical Keyboard (Brown Switches)</li>
     <li>Rapoo MT750S Multi-Mode Bluetooth Wireless Mouse</li>
     <li>Jabra Evolve 20 Stereo Headset USB HSC016</li>
@@ -25,8 +24,9 @@ permalink: /gear/
 
   <h5>Smart Home</h5>
   <ul>
-    <li>Dell Optiplex 3050, Core i5 7500T @ 2.6GHz, 128GB SSD, 16GB Ram</li>
+    <li>Huawei EchoLife HG612 3B FTTC VDSL Fibre Modem</li>
     <li>TP Link Deco S4 Mesh Wi-Fi System</li>
+    <li>Dell Optiplex 3050, Core i5 7500T @ 2.6GHz, 128GB SSD, 16GB Ram</li>
     <li>Coredy R580 Robot Vacuum Cleaner</li>
     <li>Zemismart USB Rechargeable Roller Blind Motors</li>
     <li>Google Home Minis</li>
