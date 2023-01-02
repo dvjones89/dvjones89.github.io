@@ -8,7 +8,7 @@ url: https://dvj.me.uk
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Dave Jones
+  name: David Fentem-Jones
   # Little description about your site
   description: My Place On The Net
   # 'meta_description:' Write an awesome description for your new site here.
@@ -18,9 +18,9 @@ harmony:
    Hi, I'm Dave, a Software Engineer and Web Developer based in beautiful North Wales, UK.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Dave Jones
-    email: david@dvj.me.uk
-    url: dvj.me.uk
+    name: David Fentem-Jones
+    email: david@dfj.me.uk
+    url: dfj.me.uk
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x

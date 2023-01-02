@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dave Jones
+title: David Fentem-Jones
 ---
 
 Hi, I'm Dave, a Software Engineer and Web Developer based in beautiful North Wales, UK
@@ -11,4 +11,4 @@ I studied Internet Computer Science at [St Andrews](http://www.cs.st-andrews.ac.
 
 I like to help people through technology, building products and processes that improve people's lives.
 
-`david@dvj.me.uk`
+`david@dfj.me.uk`
