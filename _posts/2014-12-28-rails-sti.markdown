@@ -229,7 +229,7 @@ Perhaps moving the CRUD logic to a shared "factory" or "service" model, used by 
 
 {% highlight bash %}
 commit 423fc7f97d9b049b276bca420890ed7ed198b25f
-Author: Dave Jones
+Author: David Fentem-Jones
 Date:   Sat Nov 22 17:41:15 2014 +0000
 
     Undoing STI Cleverness
