@@ -7,7 +7,7 @@ permalink: /gear/
   <h5>Every Day Carry (EDC)</h5>
   <ul>
     <li>OnePlus Nord 2 5G (128GB)</li>
-    <li>Oppo Android Smartwatch (46mm)</li>
+    <li>Google Pixel Watch 2</li>
     <li>Earfun Free Pro 2 Hybrid Active Noise Cancelling Earbuds</li>
     <li>Apple iPad Air (3rd Generation)</li>
     <li>Apple Macbook Pro 2019, 13 inch, Core i5, 8GB RAM</li>
@@ -29,19 +29,21 @@ permalink: /gear/
   <ul>
     <li>TP Link Deco S4 Mesh Wi-Fi System</li>
     <li>Dell Optiplex 3050, Core i5 7500T @ 2.6GHz, 128GB SSD, 16GB Ram</li>
-    <li>Coredy R580 Robot Vacuum Cleaner</li>
+    <li>Yeedi Vac 2 Pro Robot Vacuum Cleaner</li>
+    <li>Mammotion Luba 2 AWD Robotic Lawnmower</li>
     <li>Zemismart USB Rechargeable Roller Blind Motors</li>
     <li>Google Home Minis</li>
-    <li>Google Home Hub</li>
+    <li>Google Home Hubs</li>
     <li>TP Link Tapo C200 Security Cameras</li>
     <li>Reolink RLC-410W Security Cameras</li>
+    <li>Reolink Video Doorbell</li>
   </ul>
 
   <h5>Eco Home</h5>
   <ul>
     <li>11 x Perlight 295w Solar Panels (3.245kWh max output)</li>
     <li>Solis S6-GR1P3.6K Inverter (3.6kW max input) </li>
-    <li>GivEnergy Giv-AC3.0 Inverter with 5.22 kWh (102 Ah) Storage Battery</li>
+    <li>GivEnergy Giv-AC3.0 Inverter with 13.4kWh battery storage</li>
     <li>MyEnergi Zappi EV Charger (7kW)</li>
   </ul>
 </div>
